@@ -1,9 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 fastapi
 uvicorn
-tensorflow
+pydantic
 numpy
 pillow
+tensorflow
+torch==2.1.2+cpu
 requests
-python-multipart
-pydantic
-
