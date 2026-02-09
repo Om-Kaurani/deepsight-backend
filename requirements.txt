@@ -1,6 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 
-<<<<<<< HEAD
+
 torch==2.1.2+cpu
 tensorflow==2.13.0
 numpy
@@ -8,7 +8,7 @@ pillow
 fastapi
 uvicorn
 python-multipart
-=======
+
 fastapi
 uvicorn
 pydantic
@@ -17,4 +17,4 @@ pillow
 tensorflow
 torch==2.1.2+cpu
 requests
->>>>>>> deb4c3118108e504575dde5fd797abe6f511e73f
+
